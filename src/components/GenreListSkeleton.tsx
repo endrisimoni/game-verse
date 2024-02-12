@@ -7,8 +7,8 @@ import {
 const GenreListSkeleton = () => {
   return (
     <HStack>
-      <SkeletonCircle height='32px' width='32px' borderRadius={8} />
-      <Skeleton width="120px"  height='20px'/>
+      <SkeletonCircle height='45px' width='45px' borderRadius={8} />
+      <Skeleton width="100px"  height='20px'/>
     </HStack>
   );
 };
