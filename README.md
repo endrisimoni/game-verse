@@ -23,7 +23,7 @@ This project is built using React with TypeScript. It aims to replicate the feat
 
 ## Demo
 
-You can view the deplyed project [here](game-verse-xi.vercel.app)
+You can view the deployed project [here](game-verse-xi.vercel.app)
 
 ## Technologies Used
 
